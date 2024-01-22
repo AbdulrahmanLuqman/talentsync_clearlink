@@ -1,8 +1,8 @@
 <template>
-    <section class="flex">
+    <section class="flex gap-10">
         <div class="flex flex-col gap-[38px] w-[60%]">
-            <h1 class="text-[64px] font-[600] leading-[72px]">Uniting the world, one video call at a time</h1>
-            <p class="text-gray-500 text-[24px]">Experience the future of communication with ClearLink – where crystal-clear video conferencing meets unparalleled simplicity.</p>
+            <h1 class="text-[54px] font-[600] leading-[72px]">Uniting the world, one video call at a time</h1>
+            <p class="text-gray-500 text-[20px]">Experience the future of communication with ClearLink – where crystal-clear video conferencing meets unparalleled simplicity.</p>
             <div class="flex items-center gap-[20px]">
                 <button class="text-white font-semibold bg-[#175CD3] py-[16px] px-[28px] rounded-[100px]">Start your free trial</button>
                 <button class="flex items-center gap-2">
@@ -25,12 +25,12 @@
 
         <div class="p-[32px] rounded-[16px] border w-[40%] bg-gradient-to-b from-[#B2DDFF] to-[#EFF8FF] flex flex-col items-center gap-[40px]">
             <div class="grid grid-cols-3 gap-[20px] h-fit">
-                <img src="../assets/images/animoji-3.png" alt="">
-                <img src="../assets/images/animoji-4.png" alt="">
-                <img src="../assets/images/animoji-5.png" alt="">
-                <img src="../assets/images/animoji-6.png" alt="">
-                <img src="../assets/images/animoji-1.png" alt="">
-                <img src="../assets/images/animoji-2.png" alt="">
+                <img src="../assets/images/animoji-3.png" alt="animoji">
+                <img src="../assets/images/animoji-4.png" alt="animoji">
+                <img src="../assets/images/animoji-5.png" alt="animoji">
+                <img src="../assets/images/animoji-6.png" alt="animoji">
+                <img src="../assets/images/animoji-1.png" alt="animoji">
+                <img src="../assets/images/animoji-2.png" alt="animoji">
             </div>
 
             <div class="flex gap-4">

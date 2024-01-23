@@ -6,15 +6,19 @@ import FirstSection from './components/FirstSection.vue'
 import Companies from './components/Companies.vue'
 import WhyChoose from './components/WhyChoose.vue';
 import Testimonials from './components/Testimonials.vue'
+import Faq from './components/Faq.vue'
+import Trial from './components/Trial.vue';
 
 export default defineComponent({
     components:{
-    Navbar, 
-    BackgroundPattern, 
-    FirstSection, 
+    Navbar,
+    BackgroundPattern,
+    FirstSection,
     Companies,
     WhyChoose,
-    Testimonials
+    Testimonials,
+    Faq,
+    Trial
 }
 })
 </script>
@@ -27,6 +31,8 @@ export default defineComponent({
         <Companies class="px-[100px]"/>
         <WhyChoose class="px-[100px]"/>
         <Testimonials class="px-[100px]"/>
+        <Faq class="px-[100px]"/>
+        <Trial class="pl-[100px]"/>
     </main>
 </template>
 

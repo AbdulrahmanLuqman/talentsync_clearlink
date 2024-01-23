@@ -32,10 +32,10 @@ export default defineComponent({
         <FirstSection class="section px-[100px]"/>
         <Companies class="section px-[100px]"/>
         <WhyChoose class="section px-[100px]"/>
-        <!-- <Testimonials class="px-[100px]"/>
+        <Testimonials class="px-[100px]"/>
         <Faq class="px-[100px]"/>
         <Trial class="pl-[100px]"/>
-        <Footer class="pt-10"/> -->
+        <Footer class="pt-10"/>
     </main>
 </template>
 
